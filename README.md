@@ -16,6 +16,8 @@ Full-Stack Developer with expertise in building and optimizing scalable web appl
 - Created **custom tools** for data processing, built **multi-node scrapers**, and developed **bots** to reduce manual work by >50%.
 
 ## 📈 Get in Touch
+
+- Resume: [View PDF](https://mozyonee.github.io/assets/resume.pdf)
 - Portfolio: [mozyonee.github.io](https://mozyonee.github.io)
 - LinkedIn: [linkedin.com/in/vadym-abakumov](https://www.linkedin.com/in/vadym-abakumov/)
 
