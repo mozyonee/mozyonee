@@ -17,7 +17,7 @@ Full-Stack Developer with expertise in building and optimizing scalable web appl
 
 ## 📈 Get in Touch
 
-- Resume: [View PDF](https://mozyonee.github.io/assets/resume.pdf)
+- Resume: [View PDF](https://github.com/mozyonee/mozyonee/blob/main/resume.pdf)
 - Portfolio: [mozyonee.github.io](https://mozyonee.github.io)
 - LinkedIn: [linkedin.com/in/vadym-abakumov](https://www.linkedin.com/in/vadym-abakumov/)
 
