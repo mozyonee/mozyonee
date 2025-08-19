@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vadym!
 
-Full Stack Developer with expertise in building and optimizing scalable web applications. Proficient in React.js, Node.js, and focused on creating efficient, secure, and user-friendly solutions. Passionate about automation, performance, and clean code.
+Full Stack Developer with expertise in building and optimizing scalable web applications. Proficient in Next.js, NestJS, and focused on creating efficient, secure, and user-friendly solutions. Passionate about automation, performance, and clean architecture and code.
 
 ## 💻 Tech Stack
 - **Frontend**: TypeScript, Tailwind CSS, React.js, Next.js, Electron.js
