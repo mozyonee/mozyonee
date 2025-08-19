@@ -5,7 +5,7 @@ Full Stack Developer with expertise in building and optimizing scalable web appl
 ## 💻 Tech Stack
 - **Frontend**: TypeScript, Tailwind CSS, React.js, Next.js, Electron.js
 - **Backend**: Node.js, Express.js, NestJS, Microservices
-- **Database**: MySQL (Sequelize), PostgreSQL (Prisma), MongoDB (Mongoose), Redis
+- **Databases**: MySQL (Sequelize), PostgreSQL (Prisma), MongoDB (Mongoose), Redis
 - **Communication**: Axios, Socket.IO, BullMQ, RabbitMQ
 - **Deployment**: Docker, Kubernetes, AWS, Vercel, Railway, Render, Heroku
 - **Version Control**: GitHub, GitLab
