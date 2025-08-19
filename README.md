@@ -4,14 +4,14 @@ Full Stack Developer with expertise in building and optimizing scalable web appl
 
 ## 💻 Tech Stack
 - **Frontend**: TypeScript, Tailwind CSS, React.js, Next.js, Electron.js
-- **Backend**: Node.js, Express.js, NestJS
+- **Backend**: Node.js, Express.js, NestJS, Microservices
 - **Database**: MySQL (Sequelize), PostgreSQL (Prisma), MongoDB (Mongoose)
-- **Client-Server Communication**: Axios, Socket.IO
+- **Communication**: Axios, Socket.IO, BullMQ, RedditMQ
 - **Deployment**: Docker, Kubernetes, AWS, Vercel, Railway, Render, Heroku
-- **Version Control**: GitHub
+- **Version Control**: GitHub, GitLab
 
 ## 🚀 My Work
-- Developed **full-stack applications**, **landing pages**, and **admin dashboards**, improving performance and usability.
+- Developed **full-stack SaaS applications**, **landing pages**, and **admin dashboards**, improving performance and usability.
 - Implemented **CI/CD pipelines**, Docker containers, and automated deployment processes.
 - Created **data processing tools**, **multi-node scrapers**, and **bots** to reduce manual work by over 50%.
 
